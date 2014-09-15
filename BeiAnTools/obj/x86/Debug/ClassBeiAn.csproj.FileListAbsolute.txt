@@ -1,0 +1,10 @@
+C:\c#codes\New folder\bin\Debug\ClassBeiAn.dll
+C:\c#codes\New folder\bin\Debug\ClassBeiAn.pdb
+C:\c#codes\New folder\obj\x86\Debug\ClassBeiAn.csprojResolveAssemblyReference.cache
+C:\c#codes\New folder\obj\x86\Debug\ClassBeiAn.dll
+C:\c#codes\New folder\obj\x86\Debug\ClassBeiAn.pdb
+C:\c#codes\BeiAnTools\obj\x86\Debug\ClassBeiAn.dll
+C:\c#codes\BeiAnTools\bin\Debug\ClassBeiAn.dll
+C:\c#codes\BeiAnTools\bin\Debug\ClassBeiAn.pdb
+C:\c#codes\BeiAnTools\obj\x86\Debug\ClassBeiAn.pdb
+C:\c#codes\BeiAnTools\obj\x86\Debug\ClassBeiAn.csprojResolveAssemblyReference.cache
